@@ -1,0 +1,104 @@
+body {
+    background-color: rgb(67, 65, 73);
+    margin: 50px 40px;
+}
+
+h1 {
+    text-align: center;
+    margin: 30px 0;
+    font-weight: 800;
+    color: rgb(153, 77, 240);
+    text-shadow: rgb(55, 41, 95) 6px 6px 8px;
+    font-size: 70px; 
+  }
+.p1 {
+    font-size: 20px;
+    margin-bottom: 30px;
+    font-style: italic;
+}
+
+h2 {
+    color: white;
+    font-weight: 600;
+    background-color: rgb(152, 106, 238);
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.conteneror-imgval {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.imgval {
+    max-width: 600px;
+    max-height: 400px;
+    margin: 20px;
+}
+
+h3 { 
+    color: white;
+}
+p {
+    color: white;
+    text-align: justify;
+}
+
+.conteneror-imgcrom {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.imgcrom {
+    max-width: 400px;
+    max-height: 200px;
+    margin: 20px;
+}
+
+.contenedor-tabla {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.table {
+    max-width: 600px;
+    max-height: 400px;
+    margin: 20px;
+}
+
+th {
+    text-align: center; 
+}
+
+td {
+    text-align: center;
+    background-color: blueviolet;
+}
+
+.conteneror-imgflama {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.imgflama {
+    max-width: 500px;
+    max-height: 300px;
+    margin: 20px;
+}
+
+.conteneror-imgespectro {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.imgespectro {
+    max-width: 800px;
+    max-height: 300px;
+    margin: 20px;
+}
